@@ -2512,6 +2512,13 @@ p {
   opacity: 1;
   visibility: visible; }
 
+/*MODIFICARE STI GATTINIIIIIIIIIIIIII NON SI CENTRANO MALEDETTI
+  aggiunto da me cancellare quando risolto
+*/
+  .no-gutters{
+    border: 1px solid black;
+  }
+
 /*===========================
        15.ABOUT css 
 ===========================*/
