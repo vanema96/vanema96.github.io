@@ -2230,7 +2230,7 @@ p {
         font-size: 16px;
         line-height: 24px;
         font-weight: 700;
-        padding: 26px 0;
+        padding: 20px 0;
         color: #999;
         text-transform: uppercase;
         position: relative;
@@ -2259,7 +2259,7 @@ p {
               display: none; } }
       .navbar-area .navbar .navbar-nav .nav-item.active > a, .navbar-area .navbar .navbar-nav .nav-item:hover > a {
         opacity: 1;
-        color: #fff; }
+        color: #000; }
         @media only screen and (min-width: 768px) and (max-width: 991px) {
           .navbar-area .navbar .navbar-nav .nav-item.active > a, .navbar-area .navbar .navbar-nav .nav-item:hover > a {
             color: #121212; } }
@@ -2344,15 +2344,16 @@ p {
 /*===== features TWO =====*/
 .features-area {
   background-color: #f4f6f7;
-  padding-top: 120px;
-  padding-bottom: 130px; }
+  padding-top: 80px;
+  padding-bottom: 75px; }
 
 .single-features {
-  padding: 70px 20px 15px;
-  background-color: #fff; }
+  padding: 40px 20px 0px;
+  background-color: #fff;
+  border-radius: 30px }
   .single-features .features-title-icon .features-title a {
     font-size: 36px;
-    line-height: 45px;
+    line-height: 50px;
     color: #121212;
     -webkit-transition: all 0.3s ease-out 0s;
     -moz-transition: all 0.3s ease-out 0s;
@@ -2378,7 +2379,7 @@ p {
     position: relative;
     display: inline-block; }
     .single-features .features-title-icon .features-icon i {
-      font-size: 88px;
+      font-size: 60px;
       line-height: 70px;
       color: #0067f4;
       position: relative;
@@ -2402,8 +2403,12 @@ p {
       18.PORTFOLIO css 
 ===========================*/
 .portfolio-area {
-  padding-top: 120px;
-  padding-bottom: 130px; }
+  padding-top: 90px;
+  padding-bottom: 70px; }
+
+  #works {
+    margin: auto;
+  }
 
 .portfolio-menu ul li {
   font-size: 16px;
@@ -2419,11 +2424,11 @@ p {
   -o-transition: all 0.3s ease-out 0s;
   transition: all 0.3s ease-out 0s;
   cursor: pointer;
-  width: 100%;
+  width: 30%;
   border-radius: 50px;
   overflow: hidden;
   margin-top: 4px;
-  text-transform: uppercase; }
+  text-transform: uppercase;}
   .portfolio-menu ul li:last-child {
     margin-right: 0; }
   @media only screen and (min-width: 768px) and (max-width: 991px) {
@@ -2512,7 +2517,7 @@ p {
 ===========================*/
 .about-area {
   padding-top: 80px;
-  padding-bottom: 130px;
+  padding-bottom: 80px;
   position: relative; }
   .about-area .about-title .sub-title {
     font-size: 18px;
@@ -2542,7 +2547,7 @@ p {
       .about-area .about-accordion .accordion .card .card-header a {
         font-size: 18px;
         font-weight: 500;
-        color: #000;
+        color: #0067f4;
         display: block;
         position: relative;
         padding-right: 20px; }
@@ -2579,8 +2584,8 @@ p {
       19.CONTACT css 
 ===========================*/
 .contact-area {
-  padding-top: 120px;
-  padding-bottom: 130px;
+  padding-top: 70px;
+  padding-bottom: 70px;
   background-color: #f4f6f7; }
 
 p.form-message.success, p.form-message.error {
@@ -2638,7 +2643,7 @@ p.form-message.success, p.form-message.error {
 /*===== FOOTER FIVE =====*/
 .footer-area {
   background-color: #f4f6f7;
-  padding-top: 45px;
+  padding-top: 35px;
   padding-bottom: 60px; }
   .footer-area .social li {
     display: inline-block;
