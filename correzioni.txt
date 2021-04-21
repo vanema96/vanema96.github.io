@@ -1,11 +1,11 @@
-cambiare bianco della navbar iniziale (fare più scuro)
-rimpiccolire icone delle skill
-rendere il quadrato bianco dietro alle skill più tondo
-spostare scritta all work sotto
-eliminare un po' di spazio tra le varie sezioni
-togliere scritta a little more info
-sposto tutto l'about in cima e porto sotto le skills
-rendo le scritte all'interno dell'about dello stesso blu della scritta a little more info
+-- cambiare bianco della navbar iniziale (fare più scuro)
+-- rimpiccolire icone delle skill
+-- rendere il quadrato bianco dietro alle skill più tondo
+-- spostare scritta all work sotto
+-- eliminare un po' di spazio tra le varie sezioni
+-- togliere scritta a little more info 
+-- sposto tutto l'about in cima e porto sotto le skills
+-- rendo le scritte all'interno dell'about dello stesso blu della scritta a little more info
 
 
 
