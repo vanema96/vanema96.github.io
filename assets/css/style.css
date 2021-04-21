@@ -2599,7 +2599,8 @@ p {
 .contact-area {
   padding-top: 70px;
   padding-bottom: 70px;
-  background-color: #f4f6f7; }
+  background-color: #f4f6f7;
+}
 
 p.form-message.success, p.form-message.error {
   font-size: 16px;
@@ -2642,6 +2643,38 @@ p.form-message.success, p.form-message.error {
     margin-right: 8px; }
   .contact-wrapper .contact-title span {
     font-weight: 400; }
+
+    .contact-info{
+      display: grid;
+      grid-template-columns: 60% 40%;
+      grid-template-rows: auto;
+      column-gap: 70px;
+      grid-template-areas:
+        "letter" "info"
+    }
+
+    .item1{
+      grid-area: letter;
+    }
+
+    .item2{
+      grid-area: info;
+    }
+
+    .col-lg-4{
+      padding-top: 30px;
+    }
+
+    .contact-info .col-lg-12{
+      margin-top: -120px;
+    }
+
+    .media-body{
+      display: flex;
+      align-items: center;
+    }
+
+    
 
 /*===========================
     21.FOOTER css 
