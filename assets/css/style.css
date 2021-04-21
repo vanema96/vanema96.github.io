@@ -2775,6 +2775,8 @@ p.form-message.success, p.form-message.error {
 
 /*FROM CODEPEN*/
 
+/*thank you*/
+
 #quote-name {
   font-size: 50px;
   line-height: calc(20px + 20vh);
@@ -2840,4 +2842,3 @@ p.form-message.success, p.form-message.error {
     text-shadow: 0 0 10px #87ceeb, 0 0 15px #87ceeb, 0 0 30px deepskyblue, 0 0 30px deepskyblue, 0 0 30px deepskyblue, 0 0 40px deepskyblue, 0 0 50px deepskyblue, 0 0 60px deepskyblue, 0 0 70px deepskyblue, 0 0 80px deepskyblue, 0 0 90px deepskyblue, 0 0 100px skyblue;
   }
 }
-
