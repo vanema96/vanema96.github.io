@@ -2357,6 +2357,12 @@ p {
     padding: 2px;
     display: block;
     margin: auto;
+    border-radius: 100px;
+    box-shadow: 0 0 5px #000;
+  }
+
+   .col-lg-7 .mt-50{
+     padding-top: 70px;
    }
 
 /*===========================
@@ -2548,7 +2554,7 @@ p.form-message.success, p.form-message.error {
   line-height: calc(20px + 20vh);
   margin: 0 auto;
   text-align: center;
-  text-shadow: 0 0 10px #87ceeb, 0 0 15px #87ceeb, 0 0 30px deepskyblue, 0 0 30px deepskyblue, 0 0 30px deepskyblue, 0 0 40px deepskyblue, 0 0 50px deepskyblue, 0 0 60px deepskyblue, 0 0 70px deepskyblue, 0 0 80px deepskyblue, 0 0 90px deepskyblue, 0 0 100px skyblue;
+  text-shadow: 0 0 5px #87ceeb, 0 0 7px #87ceeb, 0 0 15px deepskyblue, 0 0 15px deepskyblue, 0 0 15px deepskyblue, 0 0 20px deepskyblue, 0 0 25px deepskyblue, 0 0 30px deepskyblue, 0 0 35px deepskyblue, 0 0 40px deepskyblue, 0 0 45px deepskyblue, 0 0 50px skyblue;
   color: #559CFF;
   font-family: "Poppins", sans-serif;
   font-weight: 200;
@@ -2584,7 +2590,7 @@ p.form-message.success, p.form-message.error {
   56%,
   100% {
     color: white;
-    text-shadow: 0 0 10px #87ceeb, 0 0 15px #87ceeb, 0 0 30px deepskyblue, 0 0 30px deepskyblue, 0 0 30px deepskyblue, 0 0 40px deepskyblue, 0 0 50px deepskyblue, 0 0 60px deepskyblue, 0 0 70px deepskyblue, 0 0 80px deepskyblue, 0 0 90px deepskyblue, 0 0 100px skyblue;
+    text-shadow: 0 0 5px #87ceeb, 0 0 7px #87ceeb, 0 0 15px deepskyblue, 0 0 15px deepskyblue, 0 0 15px deepskyblue, 0 0 20px deepskyblue, 0 0 25px deepskyblue, 0 0 30px deepskyblue, 0 0 35px deepskyblue, 0 0 40px deepskyblue, 0 0 45px deepskyblue, 0 0 50px skyblue;
   }
 }
 
@@ -2605,6 +2611,6 @@ p.form-message.success, p.form-message.error {
   56%,
   100% {
     color: white;
-    text-shadow: 0 0 10px #87ceeb, 0 0 15px #87ceeb, 0 0 30px deepskyblue, 0 0 30px deepskyblue, 0 0 30px deepskyblue, 0 0 40px deepskyblue, 0 0 50px deepskyblue, 0 0 60px deepskyblue, 0 0 70px deepskyblue, 0 0 80px deepskyblue, 0 0 90px deepskyblue, 0 0 100px skyblue;
+    text-shadow: 0 0 5px #87ceeb, 0 0 7px #87ceeb, 0 0 15px deepskyblue, 0 0 15px deepskyblue, 0 0 15px deepskyblue, 0 0 20px deepskyblue, 0 0 25px deepskyblue, 0 0 30px deepskyblue, 0 0 35px deepskyblue, 0 0 40px deepskyblue, 0 0 45px deepskyblue, 0 0 50px skyblue;
   }
 }

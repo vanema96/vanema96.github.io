@@ -1,7 +1,2 @@
--togliamo sfondo bianco alla favicon
--centro scritte dei contatti
--sotto a contact spostare il form dei messaggi sulla sinistra e i tre recapiti sulla destra uno sotto l'altro
--togliere home come link nella navbar
--formspree x far funzionare il contattarmi
 
 
