@@ -1,11 +1,7 @@
--- cambiare bianco della navbar iniziale (fare più scuro)
--- rimpiccolire icone delle skill
--- rendere il quadrato bianco dietro alle skill più tondo
--- spostare scritta all work sotto
--- eliminare un po' di spazio tra le varie sezioni
--- togliere scritta a little more info 
--- sposto tutto l'about in cima e porto sotto le skills
--- rendo le scritte all'interno dell'about dello stesso blu della scritta a little more info
-
+-togliamo sfondo bianco alla favicon
+-centro scritte dei contatti
+-sotto a contact spostare il form dei messaggi sulla sinistra e i tre recapiti sulla destra uno sotto l'altro
+-togliere home come link nella navbar
+-formspree x far funzionare il contattarmi
 
 
