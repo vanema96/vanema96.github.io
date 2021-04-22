@@ -2262,7 +2262,7 @@ p {
     -ms-transform: scale(0.9);
     -o-transform: scale(0.9);
     transform: scale(0.9);
-    border-radius: 8px; }
+    border-radius: 8px;}
     .single-portfolio .portfolio-image .portfolio-overlay .portfolio-content {
       padding: 16px; }
       .single-portfolio .portfolio-image .portfolio-overlay .portfolio-content .portfolio-icon {
@@ -2289,6 +2289,10 @@ p {
 
   .col-lg-9{
     margin: auto;
+  }
+
+  .portfolio-image img {
+    border-radius: 8px;
   }
 
 /*===========================
@@ -2551,11 +2555,10 @@ p.form-message.success, p.form-message.error {
 
 /*thank you*/
 
-#quote-name {
-  font-size: 30px;
+/*#quote-name {
+  font-size: 18px;
   line-height: calc(20px + 20vh);
   margin: 0 auto;
-  text-align: center;
   text-shadow: 0 0 5px #87ceeb, 0 0 7px #87ceeb, 0 0 15px deepskyblue, 0 0 15px deepskyblue, 0 0 15px deepskyblue, 0 0 20px deepskyblue, 0 0 25px deepskyblue, 0 0 30px deepskyblue, 0 0 35px deepskyblue, 0 0 40px deepskyblue, 0 0 45px deepskyblue, 0 0 50px skyblue;
   color: #559CFF;
   font-family: "Poppins", sans-serif;
@@ -2615,4 +2618,4 @@ p.form-message.success, p.form-message.error {
     color: white;
     text-shadow: 0 0 5px #87ceeb, 0 0 7px #87ceeb, 0 0 15px deepskyblue, 0 0 15px deepskyblue, 0 0 15px deepskyblue, 0 0 20px deepskyblue, 0 0 25px deepskyblue, 0 0 30px deepskyblue, 0 0 35px deepskyblue, 0 0 40px deepskyblue, 0 0 45px deepskyblue, 0 0 50px skyblue;
   }
-}
+}*/
